@@ -1,0 +1,41 @@
+,account,prediction,confidence
+0,flyio-buildbot	Bot,invalid,
+1,blockstack-devops	Bot,invalid,
+2,SMillerDev	Human,invalid,
+3,petere	Human,invalid,
+4,bfontaine	Human,invalid,
+5,zuisong	Human,invalid,
+6,asyncapi-bot-eve	Bot,invalid,
+7,EricFromCanada	Human,invalid,
+8,Moulick	Human,invalid,
+9,BrewTestBot	Bot,invalid,
+10,carlocab	Human,invalid,
+11,ddollar	Human,invalid,
+12,seratch	Human,invalid,
+13,sferik	Human,invalid,
+14,samford	Human,invalid,
+15,jesseduffield	Human,invalid,
+16,claui	Human,invalid,
+17,jeremylong	Human,invalid,
+18,tchajed,human,0.996
+19,FnControlOption,human,0.997
+20,flyio-flyctl-bot,bot,0.993
+21,avsm,human,0.999
+22,denysdovhan,human,0.988
+23,derrabus,human,1.0
+24,github-merge-queue[bot],app,1.0
+25,jidicula,human,1.0
+26,bevanjkay,human,0.994
+27,branchvincent,human,0.965
+28,nevack,human,0.999
+29,mkhl,human,0.998
+30,wing328,human,0.847
+31,stgraber,human,0.999
+32,soloio-bot,bot,0.718
+33,matchai,human,0.609
+34,kevinAlbs,human,0.999
+35,curquiza,human,0.998
+36,dandavison,human,0.999
+37,pulumi-bot,bot,0.983
+38,epistrephein,human,0.999
+39,github-actions[bot],app,1.0
